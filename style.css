@@ -1,0 +1,43 @@
+h1{
+    /* color: rgb(45, 75, 88); */
+    /* color: rgba(100, 163, 196) */
+    color: #750808;
+    /* background-color: blueviolet; */
+    background-color: rgb(60, 70, 90);
+    /* position: absolute; */
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+.one{
+    height: 700px;
+    width: 700px;
+    background-color: yellowgreen;
+    background-image: url(images/images\ \(8\).jpg);
+    /* background-position: 200px; */
+    background-position: 200px 100px;
+    /* background-position: left-top; */
+    /* background-position: right; */
+    /* background-position: left; */
+    /* background-position: top; */
+    background-position: bottom;
+    /* background-repeat: repeat; */
+    /* background-repeat: repeat-x; */
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-y ; */
+    /* background-size: 700px,700px; */
+    /* background-size: auto; */
+    /* background-size: cover; */
+    background-size: contain;
+    /* position: absolute; */
+    position: relative;
+    left: 100px;
+    top: 200px;
+}
+h2{
+    position: absolute;
+    left: 100px;
+    top: 200px;
+}
+
+
